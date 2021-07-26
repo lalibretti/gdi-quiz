@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Project is in process please refer to our previous iteration [here](https://github.com/baileyritchie/gdi-pathways-quiz) while we work on updating this new version
+
+> We creating a careers in tech quiz. We are planning on powering this quiz with Node.js and React. Original project was part of a Hackathon and we are continuting to iterate as a learning exerscise and to create a tool to help those interested in seeing how they may fit into the tech space. 
+
+## More to come soon!
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
